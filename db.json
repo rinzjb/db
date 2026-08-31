@@ -1,0 +1,44 @@
+{
+  "config": {
+    "title": "Rinz Market",
+    "description": "Jual, Beli, dan Rental Account Game #1 di Indonesia 🇮🇩",
+    "logo_url": "https://s1.nefusoft.my.id/files/BQACAgUAAyEGAATJMpPgAAIB0Gpp7cXh0g49rlCXz3jxWZhX_ZZsAALsJAACRUBRV_4XYc2TdWpNPQQ.webp",
+    "loader_logo_url": "https://s1.nefusoft.my.id/files/BQACAgUAAyEGAATJMpPgAAIB0Gpp7cXh0g49rlCXz3jxWZhX_ZZsAALsJAACRUBRV_4XYc2TdWpNPQQ.webp",
+    "home_logo_url": "https://s1.nefusoft.my.id/files/BQACAgUAAyEGAATJMpPgAAIB0Gpp7cXh0g49rlCXz3jxWZhX_ZZsAALsJAACRUBRV_4XYc2TdWpNPQQ.webp",
+    "group_logo_url": "https://s1.nefusoft.my.id/files/BQACAgUAAyEGAATJMpPgAAIB0Gpp7cXh0g49rlCXz3jxWZhX_ZZsAALsJAACRUBRV_4XYc2TdWpNPQQ.webp",
+    "saluran_logo_url": "https://s1.nefusoft.my.id/files/BQACAgUAAyEGAATJMpPgAAIB0Gpp7cXh0g49rlCXz3jxWZhX_ZZsAALsJAACRUBRV_4XYc2TdWpNPQQ.webp",
+    "ticker_text": "PENGUMUMAN: Hati-hati terhadap segala bentuk penipuan yang mengatasnamakan Rinz Market! Transaksi hanya melalui kontak resmi kami!"
+  },
+  "banners": [
+    {
+      "id": 1,
+      "image_url": "https://s1.nefusoft.my.id/files/BQACAgUAAyEGAATJMpPgAAIB0Wpqpg0HTpAsUVgQLboSpNt2qB21AAJzHwACRUBZV8mY3OhDiG4iPQQ.webp",
+      "redirect_enabled": false,
+      "redirect_url": ""
+    },
+    {
+      "id": 2,
+      "image_url": "https://s1.nefusoft.my.id/files/BQACAgUAAyEGAATJMpPgAAIB0mpqpjcBCz2mwd47NA8zlSAkOg8OAAJ0HwACRUBZVyq-U0kVrfAYPQQ.webp",
+      "redirect_enabled": false,
+      "redirect_url": ""
+    }
+  ],
+  "group_jb": [],
+  "saluran": [],
+  "admin_contacts": [],
+  "sosmed": [
+    {
+      "platform": "tiktok",
+      "link": "https://tiktok.com"
+    },
+    {
+      "platform": "instagram",
+      "link": "https://instagram.com"
+    },
+    {
+      "platform": "facebook",
+      "link": "https://facebook.com"
+    }
+  ],
+  "blacklist": []
+}
