@@ -92,5 +92,14 @@
       "link": "https://facebook.com"
     }
   ],
-  "blacklist": []
+  "blacklist": [
+    {
+      "id": 1788179876364,
+      "name": "Rinz KW",
+      "description": "Nomor: 0812xxx",
+      "kronologi": "Test fitur blacklist",
+      "modus": "Clone",
+      "status": "Diblacklist permanen dari jaringan Rinz Market"
+    }
+  ]
 }
