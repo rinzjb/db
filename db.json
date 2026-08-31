@@ -23,7 +23,15 @@
       "redirect_url": ""
     }
   ],
-  "group_jb": [],
+  "group_jb": [
+    {
+      "id": 1788179432032,
+      "name": "JB V1 RINZ STR",
+      "subtext": "Group JB Rinz Market V1",
+      "link": "https://chat.whatsapp.com/FJ2GsqXGMICFEWQPwczdCJ",
+      "image_url": "https://raw.githubusercontent.com/rinzjb/db/main/uploads/1788179428245-1006479925.jpg"
+    }
+  ],
   "saluran": [],
   "admin_contacts": [],
   "sosmed": [
