@@ -62,7 +62,15 @@
       "image_url": "https://raw.githubusercontent.com/rinzjb/db/main/uploads/1788179716010-1006479955.jpg"
     }
   ],
-  "admin_contacts": [],
+  "admin_contacts": [
+    {
+      "id": 1788179779827,
+      "name": "Rinz Market Utama",
+      "subtext": "Nomor Utama Rinz Market",
+      "link": "081216612982",
+      "image_url": "https://raw.githubusercontent.com/rinzjb/db/main/uploads/1788179774747-1006479925.jpg"
+    }
+  ],
   "sosmed": [
     {
       "platform": "tiktok",
