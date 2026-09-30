@@ -9,14 +9,7 @@
     "saluran_logo_url": "https://raw.githubusercontent.com/rinzjb/db/main/uploads/1790740919320-3432800.png",
     "ticker_text": "PENGUMUMAN: Hati-hati terhadap segala bentuk penipuan yang mengatasnamakan Rinz Market! Transaksi hanya melalui kontak resmi kami!"
   },
-  "banners": [
-    {
-      "id": 2,
-      "image_url": "https://raw.githubusercontent.com/rinzjb/db/main/uploads/1788179277804-IMG-20260729-WA0254.jpg",
-      "redirect_enabled": false,
-      "redirect_url": ""
-    }
-  ],
+  "banners": [],
   "group_jb": [
     {
       "id": 1788179432032,
