@@ -11,12 +11,6 @@
   },
   "banners": [
     {
-      "id": 1,
-      "image_url": "https://raw.githubusercontent.com/rinzjb/db/main/uploads/1788179252098-IMG-20260729-WA0255.jpg",
-      "redirect_enabled": false,
-      "redirect_url": ""
-    },
-    {
       "id": 2,
       "image_url": "https://raw.githubusercontent.com/rinzjb/db/main/uploads/1788179277804-IMG-20260729-WA0254.jpg",
       "redirect_enabled": false,
